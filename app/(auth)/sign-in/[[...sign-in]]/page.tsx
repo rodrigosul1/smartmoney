@@ -24,7 +24,7 @@ export default function Page() {
             </div>
         </div>
         <div className='h-full bg-[#17CF97] hidden lg:flex items-center justify-center'>
-            <Image src='/logoipsum-225.svg' height={100} width={100} alt='Logo'/>
+            <Image src='/logo.svg' height={100} width={100} alt='Logo'/>
         </div>
     </div>
   ) 
